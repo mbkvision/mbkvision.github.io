@@ -78,7 +78,7 @@ p, ul, ol, figure {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #22eaaa;
+  color: #76b900;
 }
 
 a:hover, a:focus {
@@ -91,7 +91,7 @@ a.hover-reverse {
 }
 
 a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
-  color: #22eaaa;
+  color: #76b900;
   text-decoration: none;
 }
 
@@ -265,7 +265,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-main-nav li.probootstrap-cta a:hover {
   background: #ffffff;
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.probootstrap-cta {
@@ -279,7 +279,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-main-nav li.active a {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-main-nav li.active a:hover {
@@ -287,7 +287,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
@@ -461,8 +461,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .btn.btn-primary {
-  border: 2px solid #22eaaa;
-  background: #22eaaa;
+  border: 2px solid #76b900;
+  background: #76b900;
   color: #ffffff;
 }
 
@@ -479,21 +479,21 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .btn.btn-ghost {
   background: transparent;
-  border: 2px solid #22eaaa;
-  color: #22eaaa;
+  border: 2px solid #76b900;
+  color: #76b900;
 }
 
 .btn.btn-ghost:hover {
-  background: #22eaaa;
+  background: #76b900;
   color: #ffffff;
-  border: 2px solid #22eaaa;
+  border: 2px solid #76b900;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
   outline: none;
   background: transparent;
-  color: #22eaaa;
-  border: 2px solid #22eaaa;
+  color: #76b900;
+  border: 2px solid #76b900;
 }
 
 .btn.btn-ghost.btn-ghost-white {
@@ -504,13 +504,13 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .btn.btn-ghost.btn-ghost-white:hover {
   background: #ffffff;
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .btn.btn-ghost.btn-ghost-white:focus, .btn.btn-ghost.btn-ghost-white:active {
   outline: none;
   background: #ffffff;
-  color: #22eaaa;
+  color: #76b900;
   border: 2px solid #ffffff;
 }
 
@@ -557,11 +557,11 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-section.probootstrap-section-colored, .probootstrap-section.probootstrap-section-dark {
-  background: #22eaaa;
+  background: #76b900;
   background: #ddf0f3;
-  background: -webkit-gradient(left top, right top, color-stop(0%, #ddf0f3), color-stop(100%, #22eaaa));
-  background: -webkit-gradient(linear, left top, right top, from(#ddf0f3), to(#22eaaa));
-  background: linear-gradient(to right, #ddf0f3 0%, #22eaaa 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, #ddf0f3), color-stop(100%, #76b900));
+  background: -webkit-gradient(linear, left top, right top, from(#ddf0f3), to(#76b900));
+  background: linear-gradient(to right, #ddf0f3 0%, #76b900 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$firstcolor, endColorstr=$secondcolor, GradientType=1 );
 }
 
@@ -574,11 +574,11 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-section.probootstrap-section-colored .heading-with-icon, .probootstrap-section.probootstrap-section-dark .heading-with-icon {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-section.probootstrap-section-colored .heading-with-icon i, .probootstrap-section.probootstrap-section-dark .heading-with-icon i {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-section.probootstrap-section-colored p, .probootstrap-section.probootstrap-section-dark p {
@@ -763,7 +763,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-footer.probootstrap-bg a {
   text-decoration: none;
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-footer.probootstrap-bg a:hover {
@@ -845,7 +845,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   right: 3px;
   padding-left: 15px;
   padding-right: 15px;
-  background: #22eaaa;
+  background: #76b900;
   color: #ffffff;
 }
 
@@ -976,7 +976,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded="true"] {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded="true"]:after {
@@ -1092,7 +1092,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-card .probootstrap-card-media.colored .svg {
-  fill: #22eaaa;
+  fill: #76b900;
 }
 
 .probootstrap-card .probootstrap-card-text {
@@ -1145,14 +1145,14 @@ figure:hover figcaption, figure:focus figcaption {
 .probootstrap-card.probootstrap-listing .probootstrap-card-media .probootstrap-love:hover, .probootstrap-card.probootstrap-listing .probootstrap-card-media .probootstrap-love:focus {
   -webkit-box-shadow: 0px 2px 8px -6px rgba(0, 0, 0, 0.7);
   box-shadow: 0px 2px 8px -6px rgba(0, 0, 0, 0.7);
-  background: #22eaaa;
+  background: #76b900;
   color: #ffffff;
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-media .probootstrap-love.active {
   -webkit-box-shadow: 0px 6px 8px -6px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 6px 8px -6px rgba(0, 0, 0, 0.1);
-  background: #22eaaa;
+  background: #76b900;
   color: #ffffff;
 }
 
@@ -1194,7 +1194,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-category.for-sale span {
-  background: #22EAAA;
+  background: #76b900;
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-category.for-rent span {
@@ -1209,7 +1209,7 @@ figure:hover figcaption, figure:focus figcaption {
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-price strong {
   font-size: 30px;
   font-weight: 300;
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-extra {
@@ -1480,7 +1480,7 @@ figure:hover figcaption, figure:focus figcaption {
   line-height: 25px;
   text-align: center;
   border-radius: 50%;
-  background: #22eaaa;
+  background: #76b900;
   color: #ffffff;
 }
 
@@ -1548,7 +1548,7 @@ figure:hover figcaption, figure:focus figcaption {
   background-repeat: no-repeat;
   -webkit-transition: .8s all ease-in-out;
   transition: .8s all ease-in-out;
-  background-color: #22eaaa;
+  background-color: #76b900;
 }
 
 .probootstrap-half .text {
@@ -1615,7 +1615,7 @@ figure:hover figcaption, figure:focus figcaption {
 .probootstrap-half .btn-ghost-white:hover, .probootstrap-half .btn-ghost-white:active, .probootstrap-half .btn-ghost-white:focus {
   background: none !important;
   color: #ffffff !important;
-  border-color: #22eaaa !important;
+  border-color: #76b900 !important;
 }
 
 .probootstrap-half .service-item {
@@ -1893,7 +1893,7 @@ figure:hover figcaption, figure:focus figcaption {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #22eaaa;
+  border-color: #76b900;
 }
 
 .probootstrap-form textarea.form-control {
@@ -1938,7 +1938,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .with-icon.colored i {
-  color: #22eaaa;
+  color: #76b900;
 }
 
 .probootstrap-section-heading .sub-heading {
@@ -2608,7 +2608,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-primary-color {
-  color: #22eaaa !important;
+  color: #76b900 !important;
 }
 
 .probootstrap-secondary-color {
