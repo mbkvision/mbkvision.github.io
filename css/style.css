@@ -467,9 +467,9 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  background: #39ecb3;
+  background: #76b900;
   color: #ffffff;
-  border: 2px solid #39ecb3;
+  border: 2px solid #76b900;
 }
 
 .btn.btn-primary:focus, .btn.btn-primary:active {
