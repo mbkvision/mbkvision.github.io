@@ -502,7 +502,7 @@
 	            $svg = $svg.attr('class', imgClass+' replaced-svg');
 	        }
 
-	        // Remove any invalid XML tags as per http://validator.w3.org
+	        // Remove any invalid XML tags as per https://validator.w3.org
 	        $svg = $svg.removeAttr('xmlns:a');
 
 	        // Replace image with new SVG
